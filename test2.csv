@@ -1,0 +1,7 @@
+RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Exited
+1259,15676380,Kao,631,France,Female,42,3,95054.57,1,1,0,98048.92,0
+1260,15732883,Lorenzo,708,France,Female,30,8,0,2,1,1,22025.02,0
+1261,15732546,Teng,770,Germany,Male,43,1,116717.72,1,1,1,76915.83,0
+1262,15794970,Chukwudi,715,France,Male,42,4,0,1,1,0,141055.95,1
+1263,15664696,Capon,606,France,Female,44,3,0,2,0,0,161221.85,0
+1264,15779113,Millar,679,Germany,Female,56,10,111761.52,2,1,1,77882.41,0 

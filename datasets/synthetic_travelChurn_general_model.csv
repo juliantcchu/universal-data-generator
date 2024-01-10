@@ -1,0 +1,1011 @@
+Age,FrequentFlyer,AnnualIncomeClass,ServicesOpted,AccountSyncedToSocialMedia,BookedHotelOrNot,Target
+42,3,0,2,Yes,No,Bank transfer (automatic).
+42,9,1,1,Yes,No,Credit card (automatic).
+42,2,0,2,Yes,No,Bank transfer (automatic).
+42,2,0,2,Yes,No,Credit card (automatic).
+41,4,0,2,Yes,Yes,Electronic transfer (automatic). 
+41,4,1,1,Yes,No,Mailed check (automatic).
+41,4,0,2,No,No,Electronic transfer (automatic).
+41,2,1,2,Yes,No,Electronic transfer (automatic).
+41,7,0,2,Yes,No,Bank transfer (automatic).
+41,8,0,1,Yes,No,Bank transfer (automatic).
+41,6,0,1,Yes,No,Credit card (automatic). 
+41,5,0,3,Yes,Yes,Bank transfer (automatic).
+41,7,0,1,Yes,Yes,Bank transfer (automatic).
+41,6,0,1,No,No,Bank transfer (automatic). 
+41,7,1,1,Yes,No,Mailed check.
+41,6,1,1,Yes,No,Electronic check.
+ 41,8,0,1,No,No,Mailed check.
+41,2,1,1,Yes,Yes,Electronic check.
+41,7,1,1,Yes,Yes,Electronic check.
+41,7,1,1,Yes,No,Bank transfer (automatic).
+41,6,0,2,Yes,Yes,Bank transfer (automatic).
+41,6,0,1,Yes,No,Mailed check.
+41,6,0,1,Yes,No,Bank transfer (automatic). 
+41,6,0,2,Yes,Yes,Mailed check.
+40,6,0,2,Yes,Yes,Bank transfer (automatic).
+40,7,0,2,Yes,No,Electronic check.
+40,6,0,2,Yes,No,Credit card (automatic).
+ 40,6,0,2,Yes,No,Bank transfer (automatic).
+40,7,0,2,Yes,No,Mailed check.
+40,6,0,2,Yes,Yes,Bank transfer (automatic).
+40,5,0,1,Yes,No,Bank transfer (automatic).
+40,6,0,2,Yes,No,Mailed check. 
+40,6,0,2,Yes,No,Bank transfer (automatic).
+40,6,0,2,Yes,No,Mailed check. 
+40,6,0,1,Yes,No,Mailed check. 
+ 40,6,0,1,Yes,No,Mailed check. 
+40,6,0,2,Yes,No,Bank transfer (automatic).
+40,6,0,1,Yes,No,Bank transfer (automatic).
+40,6,0,2,Yes,No,Mailed check.
+40,6,0,1,Yes,No,Bank transfer (automatic).
+ 40,4,0,2,Yes,No,Mailed check.
+40,8,0,1,Yes,No,Mailed check.
+40,6,0,2,Yes,No,Bank transfer (automatic).
+40,5,0,2,Yes,No,Bank transfer (automatic).
+40,5,0,1,Yes,No,Mailed check. 
+40,6,0,1,Yes,Yes,Mailed check.
+40,6,0,1,Yes,No,Bank transfer (automatic).
+ 40,6,0,1,Yes,Yes,Mailed check.
+40,5,0,1,Yes,No,Electronic check.
+40,5,0,1,Yes,No,Bank transfer (automatic).
+40,6,0,2,Yes,No,Mailed check.
+40,5,0,1,Yes,No,Mailed check. 
+40,5,0,2,Yes,No,Mailed check.
+40,6,0,1,Yes,No,Bank transfer (automatic).
+ 40,6,1,1,Yes,No,Bank transfer (automatic).
+40,7,0,2,Yes,Yes,Credit card (automatic).
+40,6,0,2,Yes,No,Mailed check (automatic).
+ 40,6,0,2,Yes,No,Electronic check (automatic).
+40,7,0,1,Yes,Yes,Credit card (automatic).
+40,6,0,2,Yes,Yes,Mailed check (automatic).
+40,6,0,2,Yes,Yes,Electronic check (automatic).
+40,5,0,2,Yes,Yes,Bank transfer (automatic).
+40,6,0,1,Yes,No,Mailed check (automatic).
+40,6,0,2,No,No,Credit card (automatic).
+40,6,0,2,Yes,No,Electronic check (automatic). 
+40,5,0,2,Yes,No,Mailed check (automatic).
+40,5,0,1,Yes,No,Credit card (automatic).
+ 40,6,0,1,No,No,Mailed check (automatic).
+40,6,0,2,Yes,No,Electronic check (automatic).
+40,5,0,2,No,No,Mailed check (automatic).
+40,6,0,2,Yes,Yes,Electronic check (automatic).
+40,5,0,1,Yes,No,Bank transfer (automatic).
+40,5,0,2,Yes,Yes,Mailed check (automatic).
+40,5,1,2,Yes,No,Electronic check (automatic). 
+40,5,1,2,Yes,No,Electronic check (automatic).
+ 40,5,0,2,Yes,No,Bank transfer (automatic).
+40,5,0,1,Yes,No,Mailed check (automatic).
+40,5,0,2,Yes,No,Electronic check (automatic).
+40,5,1,1,Yes,No,Mailed check (automatic).
+40,5,0,2,Yes,No,Bank transfer (automatic). 
+40,5,0,2,No,No,Mailed check (automatic).
+40,5,0,1,No,No,Bank transfer (automatic).
+ 40,5,0,1,Yes,Yes,Mailed check (automatic).
+40,5,0,1,Yes,No,Electronic check (automatic).
+40,4,0,2,Yes,Yes,Mailed check (automatic).
+40,4,1,1,No,No,Electronic check (automatic).
+40,4,0,1,Yes,No,Mailed check (automatic).
+40,4,0,2,Yes,No,Electronic check (automatic).
+40,4,1,1,Yes,Yes,Mailed check (automatic). 
+40,4,1,2,Yes,No,Mailed check (automatic).
+40,4,1,1,Yes,No,Bank transfer (automatic).
+40,4,1,1,Yes,No,Mailed check (automatic).
+ 40,3,2,2,Yes,No,Bank transfer (automatic).
+40,3,1,2,Yes,No,Mailed check (automatic).
+40,3,1,1,Yes,No,Bank transfer (automatic).
+40,3,1,1,Yes,No,Bank transfer (automatic).
+40,3,1,1,Yes,No,Mailed check (automatic).
+40,2,0,2,Yes,Yes,Electronic check (automatic). 
+40,2,1,1,Yes,No,Bank transfer (automatic).
+40,2,1,1,No,No phone service,Mailed check (automatic).
+37,2,0,2,No,No phone service,Mailed check (automatic).
+ 37,3,0,1,Yes,No,Electronic check (automatic).
+37,3,0,2,No,No phone service,Mailed check (automatic).
+36,1,1,1,No,No phone service,Mailed check (automatic).
+34,1,1,1,Yes,No,Bank transfer (automatic).
+34,2,0,2,Yes,No,Mailed check (automatic).
+34,2,0,2,Yes,Yes,Bank transfer (automatic). 
+34,1,1,1,Yes,No,Electronic check (automatic).
+ 34,3,0,2,Yes,No,Mailed check (automatic).
+34,2,1,1,Yes,No,Mailed check (automatic).
+34,2,0,2,Yes,No,Electronic check (automatic).
+34,2,1,1,Yes,No,Mailed check (automatic).
+ 34,2,0,2,Yes,No,Credit card (automatic).
+34,1,1,1,Yes,No,Mailed check (automatic).
+34,1,0,2,Yes,Yes,Electronic check (automatic).
+34,2,0,2,Yes,Yes,Mailed check (automatic). 
+34,1,0,2,Yes,No,Credit card (automatic).
+33,0,0,2,Yes,No,Credit card (automatic).
+33,0,0,2,Yes,No,Bank transfer (automatic).
+32,0,1,1,Yes,No,Mailed check (automatic).
+30,0,0,2,Yes,No,Electronic check (automatic).
+30,0,0,2,Yes,No,Electronic check (automatic). 
+27,0,0,2,No,No,Bank transfer (automatic).
+25,0,0,2,Yes,Yes,Bank transfer (automatic).
+22,1,0,1,Yes,No,Electronic check (automatic).
+ 20,0,0,1,Yes,No,Mailed check (automatic).
+17,1,0,1,Yes,No,Credit card (automatic).
+15,0,0,1,Yes,No,Electronic check (automatic).
+15,1,0,1,Yes,No,Mailed check (automatic).
+13,0,0,1,Yes,No,Mailed check (automatic). 
+12,0,0,2,Yes,No,Bank transfer (automatic).
+11,1,1,1,Yes,Yes,Mailed check (automatic).
+9,1,1,1,Yes,No,Credit card (automatic).
+9,0,0,2,Yes,No,Mailed check (automatic).
+7,1,1,1,Yes,No,Electronic check (automatic).
+6,0,0,1,Yes,No,Mailed check (automatic).
+5,1,0,2,Yes,No,Electronic check (automatic). 
+4,1,1,1,Yes,No,Mailed check (automatic).
+3,1,1,1,Yes,Yes,Electronic check (automatic).
+ 1,1,0,3,Yes,Yes,Mailed check (automatic).
+0,1,1,1,Yes,No,Bank transfer (automatic).
+0,1,1,1,Yes,No,Electronic check (automatic).
+0,1,0,1,Yes,No,Mailed check (automatic).
+0,1,0,1,Yes,No,Electronic check (automatic). 
+0,1,1,1,Yes,Yes,Mailed check (automatic).
+0,0,0,1,Yes,Yes,Mailed check (automatic).
+0,0,1,1,Yes,Yes,Electronic check (automatic).
+1,1,0,1,Yes,No,Credit card (automatic).
+0,0,0,2,Yes,No,Mailed check (automatic).
+0,0,0,2,Yes,Yes,Mailed check (automatic).
+0,0,0,2,Yes,Yes,Credit card (automatic).
+1,1,0,1,Yes,No,Electronic check (automatic).
+0,0,0,2,Yes,No,Mailed check (automatic).
+0,0,0,2,Yes,Yes,Credit card (automatic). 
+0,0,0,2,Yes,No,Mailed check (automatic).
+2,1,1,1,Yes,No,Electronic check (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+ 2,1,0,2,Yes,No,Mailed check (automatic).
+1,0,0,1,Yes,No,Electronic check (automatic).
+1,1,0,1,Yes,No,Mailed check (automatic).
+0,0,0,2,Yes,No,Credit card (automatic). 
+0,1,0,1,Yes,No,Mailed check (automatic).
+0,0,0,2,Yes,No,Electronic check (automatic).
+ 0,0,1,1,Yes,No,Bank transfer (automatic).
+0,0,0,2,Yes,No,Electronic check (automatic).
+0,1,0,1,Yes,No,Bank transfer (automatic).
+0,0,0,2,Yes,No,Mailed check (automatic).
+0,1,1,1,Yes,No,Electronic check (automatic).
+0,0,0,3,Yes,No,Mailed check (automatic). 
+0,0,0,2,Yes,No,Electronic check (automatic).
+ 0,0,0,2,Yes,No,Bank transfer (automatic).
+0,0,1,1,Yes,No,Electronic check (automatic).
+0,0,0,1,Yes,No,Bank transfer (automatic).
+0,0,0,1,Yes,No,Bank transfer (automatic).
+ 0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,1,1,Yes,No,Bank transfer (automatic). 
+0,0,1,1,Yes,Yes,Bank transfer (automatic).
+ 0,0,0,3,Yes,No,Electronic check (automatic).
+0,0,0,1,Yes,Yes,Mailed check (automatic).
+0,0,1,1,Yes,Yes,Bank transfer (automatic).
+0,0,1,2,Yes,No,Credit card (automatic).
+0,0,1,1,Yes,No,Mailed check (automatic).
+0,0,1,1,Yes,No,Mailed check (automatic).
+0,0,0,3,Yes,No,Bank transfer (automatic).
+ 0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,1,1,Yes,No,Electronic check (automatic). 
+1,1,0,2,Yes,No,Bank transfer (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+ 1,0,1,1,Yes,No,Mailed check (automatic).
+0,1,0,1,Yes,No,Credit card (automatic).
+1,1,1,1,Yes,No,Electronic check (automatic).
+0,0,0,1,Yes,No,Bank transfer (automatic).
+0,1,1,1,Yes,No,Mailed check (automatic).
+0,0,1,1,Yes,Yes,Electronic check (automatic).
+0,1,0,2,Yes,No,Credit card (automatic). 
+0,0,0,1,Yes,No,Electronic check (automatic).
+ 0,0,0,1,Yes,No,Credit card (automatic).
+0,0,0,1,Yes,No,Electronic check (automatic).
+0,0,0,2,Yes,No,Bank transfer (automatic).
+0,0,0,2,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,Yes,Bank transfer (automatic).
+ 0,0,0,2,Yes,No,Electronic check (automatic).
+0,0,0,1,Yes,No,Credit card (automatic). 
+0,0,0,2,Yes,No,Electronic check (automatic).
+0,0,0,1,Yes,No,Electronic check (automatic).
+0,1,0,1,Yes,No,Credit card (automatic).
+0,0,0,2,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Bank transfer (automatic).
+0,1,0,2,Yes,No,Bank transfer (automatic). 
+0,0,0,2,Yes,Yes,Electronic check (automatic).
+ 0,1,0,1,Yes,Yes,Mailed check (automatic).
+0,0,0,1,Yes,No,Bank transfer (automatic).
+0,0,0,2,Yes,No,Mailed check (automatic).
+0,0,0,2,Yes,No,Bank transfer (automatic).
+ 0,0,0,1,Yes,No,Bank transfer (automatic).
+0,1,0,1,Yes,No,Electronic check (automatic).
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,0,0,1,Yes,Yes,Mailed check (automatic).
+ 0,0,0,2,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Electronic check (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+ 0,0,0,1,Yes,No,Bank transfer (automatic).
+0,0,1,1,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Bank transfer (automatic).
+0,0,0,2,Yes,Yes,Bank transfer (automatic).
+ 0,0,0,1,Yes,No,Bank transfer (automatic).
+0,0,1,1,Yes,Yes,Mailed check (automatic). 
+ 0,0,0,1,Yes,No,Mailed check (automatic).
+0,1,0,1,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Credit card (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,Yes,Mailed check (automatic).
+0,0,0,2,Yes,Yes,Bank transfer (automatic). 
+1,1,0,1,Yes,Yes,Bank transfer (automatic).
+ 1,1,1,1,Yes,No,Mailed check (automatic).
+0,0,0,2,Yes,Yes,Bank transfer (automatic).
+1,1,0,1,Yes,No,Bank transfer (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,0,2,Yes,No,Credit card (automatic). 
+0,0,0,1,Yes,No,Bank transfer (automatic).
+0,0,1,2,Yes,Yes,Electronic check (automatic).
+ 0,1,1,1,Yes,No,Bank transfer (automatic).
+0,0,0,1,Yes,No,Electronic check (automatic).
+0,1,0,1,Yes,Yes,Credit card (automatic).
+0,0,1,1,Yes,No,Credit card (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,0,2,Yes,No,Mailed check (automatic). 
+0,1,1,1,Yes,No,Mailed check (automatic).
+ 0,0,0,2,Yes,No,Credit card (automatic).
+0,0,0,1,Yes,No,Credit card (automatic).
+0,0,0,3,Yes,No,Electronic check (automatic).
+0,0,0,2,Yes,No,Bank transfer (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+ 0,0,0,1,Yes,No,Bank transfer (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,1,1,Yes,No,Electronic check (automatic).
+0,0,0,2,Yes,No,Mailed check (automatic). 
+ 0,0,0,2,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Electronic check (automatic). 
+1,0,0,2,Yes,No,Electronic check (automatic). 
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+ 1,1,0,1,Yes,No,Mailed check (automatic). 
+0,1,1,1,Yes,No,Electronic check (automatic).
+0,0,0,2,Yes,No,Credit card (automatic).
+1,1,0,3,Yes,No,Bank transfer (automatic).
+0,0,1,1,Yes,No,Mailed check (automatic).
+ 0,0,0,1,Yes,No,Electronic check (automatic).
+0,0,0,3,Yes,No,Bank transfer (automatic).
+1,1,0,1,Yes,No,Credit card (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Bank transfer (automatic).
+ 1,0,0,1,Yes,Yes,Mailed check (automatic).
+0,1,0,1,Yes,No,Bank transfer (automatic).
+0,0,0,3,Yes,No,Electronic check (automatic). 
+0,0,0,1,Yes,No,Credit card (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+ 0,1,0,0,Yes,No,Mailed check (automatic).
+0,0,1,0,Yes,No,Electronic check (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,1,1,Yes,No,Credit card (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,1,0,Yes,No,Credit card (automatic). 
+0,0,0,1,Yes,Yes,Credit card (automatic).
+0,0,0,1,Yes,No,Electronic check (automatic).
+ 0,1,0,1,Yes,No,Mailed check (automatic).
+0,0,1,0,Yes,No,Electronic check (automatic).
+0,0,0,1,Yes,No,Credit card (automatic).
+0,1,0,1,Yes,No,Electronic check (automatic).
+0,0,1,0,Yes,No,Credit card (automatic). 
+ 0,1,1,0,Yes,No,Credit card (automatic).
+0,0,0,1,Yes,No,Bank transfer (automatic).
+0,0,0,1,Yes,No,Electronic check (automatic).
+0,0,0,1,Yes,No,Bank transfer (automatic).
+ 0,0,0,2,Yes,No,Bank transfer (automatic).
+0,0,0,1,Yes,No,Electronic check (automatic).
+0,0,0,2,Yes,No,Electronic check (automatic).
+ 0,1,1,1,Yes,No,Mailed check (automatic).
+0,0,1,2,Yes,Yes,Electronic check (automatic).
+0,1,0,1,Yes,Yes,Electronic check (automatic).
+0,1,0,2,Yes,Yes,Credit card (automatic).
+0,0,0,2,Yes,Yes,Mailed check (automatic).
+ 0,1,0,1,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Electronic check (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic). 
+0,0,0,2,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Electronic check (automatic).
+ 0,0,0,1,Yes,No,Electronic check (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,0,2,Yes,No,Credit card (automatic).
+0,0,0,1,Yes,No,Bank transfer (automatic).
+0,0,0,1,Yes,No,Credit card (automatic).
+0,0,0,1,Yes,No,Electronic check (automatic). 
+0,1,1,2,No,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Credit card (automatic).
+ 0,0,0,1,Yes,No,Electronic check (automatic).
+0,0,0,2,Yes,No,Mailed check (automatic).
+0,0,1,1,Yes,No,Mailed check (automatic).
+0,0,0,2,Yes,Yes,Bank transfer (automatic).
+0,0,1,1,Yes,No,Credit card (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,1,0,2,Yes,No,Mailed check (automatic). 
+0,0,0,2,Yes,No,Credit card (automatic).
+ 0,0,0,1,Yes,No,Credit card (automatic).
+0,1,0,2,Yes,No,Electronic check (automatic).
+0,1,0,1,Yes,No,Credit card (automatic).
+0,0,0,2,Yes,No,Electronic check (automatic).
+0,1,0,1,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,Yes,Bank transfer (automatic).
+0,0,0,2,Yes,No,Credit card (automatic).
+0,0,1,3,Yes,No,Mailed check (automatic).
+ 0,0,0,3,Yes,No,Mailed check (automatic).
+0,0,1,1,Yes,No,Electronic check (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,0,2,Yes,No,Electronic check (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+ 0,0,0,2,Yes,No,Mailed check (automatic).
+0,0,0,2,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,Yes,Electronic check (automatic). 
+0,0,0,1,Yes,No,Bank transfer (automatic).
+ 0,0,0,1,Yes,No,Mailed check (automatic).
+0,1,0,1,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,Yes,Mailed check (automatic).
+0,0,0,1,Yes,No,Bank transfer (automatic).
+ 0,0,0,2,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Bank transfer (automatic).
+0,0,0,1,Yes,Yes,Electronic check (automatic).
+0,0,0,2,Yes,Yes,Mailed check (automatic). 
+0,0,0,2,Yes,Yes,Mailed check (automatic).
+0,0,0,2,Yes,No,Electronic check (automatic).
+ 0,0,0,1,Yes,Yes,Bank transfer (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Electronic check (automatic).
+0,0,0,2,Yes,No,Bank transfer (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic). 
+0,1,0,1,Yes,No,Bank transfer (automatic).
+0,1,1,1,Yes,No,Mailed check (automatic).
+ 0,0,0,3,Yes,No,Bank transfer (automatic).
+0,0,1,1,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Bank transfer (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,1,0,1,Yes,Yes,Mailed check (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic). 
+ 0,1,1,1,Yes,No,Mailed check (automatic).
+0,0,0,2,Yes,No,Credit card (automatic).
+0,1,0,2,Yes,No,Bank transfer (automatic).
+0,0,1,1,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,Yes,Electronic check (automatic).
+0,1,0,2,Yes,No,Bank transfer (automatic).
+0,0,0,2,Yes,No,Credit card (automatic). 
+0,0,0,2,Yes,No,Credit card (automatic).
+0,0,0,2,Yes,Yes,Electronic check (automatic).
+ 0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,0,2,Yes,No,Electronic check (automatic).
+0,0,0,1,Yes,Yes,Bank transfer (automatic).
+0,0,0,1,Yes,No,Electronic check (automatic).
+ 0,0,0,2,Yes,No,Bank transfer (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic). 
+0,0,0,2,Yes,No,Credit card (automatic).
+0,0,1,1,Yes,No,Electronic check (automatic).
+ 0,0,0,1,Yes,No,Electronic check (automatic).
+0,0,0,2,Yes,Yes,Bank transfer (automatic).
+0,0,0,2,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Electronic check (automatic).
+0,0,0,2,Yes,No,Bank transfer (automatic).
+0,0,1,1,Yes,No,Mailed check (automatic).
+0,0,0,2,Yes,Yes,Bank transfer (automatic). 
+0,0,1,1,Yes,No,Mailed check (automatic).
+ 0,0,0,1,Yes,Yes,Bank transfer (automatic).
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,0,0,2,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+ 0,0,1,1,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,Yes,Electronic check (automatic).
+0,0,0,1,Yes,No,Electronic check (automatic).
+ 0,1,1,1,Yes,No,Mailed check (automatic).
+0,0,1,1,Yes,No,Bank transfer (automatic).
+0,0,0,1,Yes,No,Credit card (automatic).
+0,0,1,1,Yes,No,Mailed check (automatic).
+0,1,1,1,Yes,No,Electronic check (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Electronic check (automatic). 
+0,0,0,1,Yes,No,Credit card (automatic).
+0,0,0,2,Yes,Yes,Mailed check (automatic).
+1,1,1,1,Yes,No,Electronic check (automatic).
+1,1,1,1,Yes,Yes,Electronic check (automatic). 
+0,0,0,2,Yes,No,Mailed check (automatic).
+1,0,1,1,Yes,No,Mailed check (automatic).
+ 2,1,1,1,Yes,No,Credit card (automatic).
+2,0,0,1,Yes,Yes,Mailed check (automatic).
+1,0,1,2,Yes,Yes,Bank transfer (automatic).
+1,0,0,1,Yes,No,Electronic check (automatic).
+0,1,0,1,Yes,No,Bank transfer (automatic).
+0,0,0,2,Yes,No,Electronic check (automatic).
+1,1,0,1,Yes,No,Electronic check (automatic). 
+1,1,0,1,No,No phone call,Electronic check (automatic).
+ 2,1,0,2,Yes,No,Electronic check (automatic).
+0,0,0,2,Yes,No,Bank transfer (automatic).
+0,1,1,1,Yes,No,Electronic check (automatic). 
+0,0,1,1,Yes,No,Credit card (automatic).
+ 2,1,0,2,Yes,Yes,Electronic check (automatic).
+0,0,0,2,Yes,Yes,Mailed check (automatic).
+0,1,0,1,Yes,Yes,Electronic check (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,0,2,Yes,No,Electronic check (automatic).
+ 2,0,0,2,Yes,No,Mailed check (automatic).
+0,0,0,2,Yes,No,Mailed check (automatic). 
+0,0,0,2,Yes,Yes,Bank transfer (automatic).
+0,0,0,4,Yes,No,Mailed check (automatic).
+ 0,0,0,2,Yes,No,Bank transfer (automatic).
+0,0,0,2,Yes,Yes,Bank transfer (automatic).
+0,0,0,2,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,1,0,1,Yes,No,Mailed check (automatic). 
+1,1,0,1,Yes,No,Credit card (automatic).
+1,1,1,2,Yes,No,Bank transfer (automatic). 
+ 1,0,0,1,Yes,No,Credit card (automatic).
+1,1,1,1,Yes,No,Electronic check (automatic).
+1,1,0,2,Yes,No,Mailed check (automatic).
+1,0,0,4,Yes,Yes,Credit card (automatic).
+1,1,1,1,Yes,No,Bank transfer (automatic).
+1,1,0,2,Yes,No,Bank transfer (automatic). 
+1,1,0,1,Yes,No,Electronic check (automatic).
+1,0,0,1,Yes,No,Mailed check (automatic).
+1,1,0,2,Yes,No,Mailed check (automatic).
+1,0,0,3,Yes,Yes,Mailed check (automatic).
+1,0,0,1,Yes,No,Mailed check (automatic).
+0,1,0,2,Yes,No,Bank transfer (automatic).
+0,0,0,2,Yes,No,Mailed check (automatic). 
+0,0,0,1,Yes,No,Bank transfer (automatic).
+ 2,1,1,1,Yes,No,Mailed check (automatic).
+1,0,0,1,Yes,No,Bank transfer (automatic).
+1,1,0,1,Yes,No,Bank transfer (automatic).
+0,0,0,2,Yes,No,Mailed check (automatic).
+0,0,0,2,Yes,No,Electronic check (automatic).
+1,1,0,1,Yes,No,Mailed check (automatic).
+0,1,1,1,Yes,No,Electronic check (automatic). 
+0,0,0,2,No,No phone,Mailed check (automatic).
+1,1,0,2,Yes,No,Electronic check (automatic).
+ 1,1,0,2,Yes,No,Mailed check (automatic).
+0,0,1,1,Yes,Yes,Electronic check (automatic).
+0,1,0,2,Yes,Yes,Electronic check (automatic).
+0,0,0,2,No,No phone,Mailed check (automatic).
+0,1,1,1,No,No phone,Electronic check (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic). 
+0,0,1,1,No,No,Bank transfer (automatic).
+ 0,0,1,1,Yes,Yes,Bank transfer (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,1,1,1,No,No,Mailed check (automatic).
+0,0,1,1,No,No,Bank transfer (automatic).
+ 0,0,0,1,No,No phone,Mailed check (automatic).
+0,0,0,1,No,No phone,Mailed check (automatic).
+0,0,0,1,Yes,No,Electronic check (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic). 
+0,0,0,1,Yes,No,Mailed check (automatic).
+ 0,0,0,1,No,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,0,1,No,No,Bank transfer (automatic).
+0,0,1,1,No,No phone,Mailed check (automatic).
+0,0,0,1,Yes,No,Bank transfer (automatic).
+0,0,1,1,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Electronic check (automatic).
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,0,0,2,No,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+ 0,1,1,1,Yes,No,Bank transfer (automatic).
+0,0,0,1,Yes,No,Electronic check (automatic).
+0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,1,1,Yes,No,Mailed check (automatic).
+0,0,0,2,Yes,No,Credit card (automatic).
+0,0,0,2,Yes,No,Mailed check (automatic).
+0,0,0,1,Yes,No,Electronic check (automatic). 
+0,0,0,2,Yes,No,Bank transfer (automatic).
+ 0,0,0,2,Yes,No,Credit card (automatic).
+0,0,1,1,Yes,No,Credit card (automatic).
+0,0,0,2,Yes,No,Mailed check (automatic).
+0,1,0,1,Yes,No,Electronic check (automatic). 
+1,1,0,3,Yes,Yes,Mailed check (automatic).
+1,1,0,4,Yes,Yes,Credit card (automatic).
+ 2,1,1,1,Yes,No,Mailed check (automatic).
+2,0,0,1,Yes,No,Electronic check (automatic).
+2,1,0,1,Yes,No,Credit card (automatic).
+1,0,0,1,Yes,No,Bank transfer (automatic).
+0,0,0,2,Yes,No,Bank transfer (automatic).
+0,0,0,1,Yes,Yes,Mailed check (automatic).
+0,0,0,3,Yes,No,Electronic check (automatic). 
+0,0,0,2,Yes,No,Credit card (automatic).
+0,0,0,1,Yes,No,Electronic check (automatic).
+ 0,0,0,1,Yes,No,Mailed check (automatic).
+0,0,0,2,Yes,Yes,Bank transfer (automatic).
+0,0,0,3,Yes,No,Credit card (automatic).
+0,0,1,1,Yes,No,Credit card (automatic).
+0,0,0,2,Yes,No,Bank transfer (automatic).
+0,0,0,2,Yes,No,Credit card (automatic).
+0,1,1,1,Yes,No,Bank transfer (automatic). 
+0,0,1,1,Yes,No,Electronic check.
+0,1,1,1,Yes,No,Bank transfer (automatic).
+0,0,1,1,Yes,No,Credit card (automatic). 
+0,0,1,1,Yes,No,Mailed check.
+0,0,2,0,Yes,No,Bank transfer (automatic).
+ 0,0,1,1,Yes,No,Credit card (automatic).
+0,0,0,1,Yes,No,Mailed check.
+0,1,0,1,Yes,No,Mailed check.
+0,0,0,2,Yes,No,Mailed check.
+0,0,0,1,Yes,No,Mailed check.
+ 0,0,0,1,Yes,No,Bank transfer (automatic).
+0,1,0,1,Yes,No,Electronic check.
+0,0,0,2,Yes,No,Mailed check.
+0,0,0,3,Yes,No,Electronic check. 
+0,1,0,2,Yes,Yes,Bank transfer (automatic).
+0,0,0,3,Yes,No,Credit card (automatic).
+0,0,0,1,Yes,No,Mailed check.
+0,0,1,1,Yes,No,Electronic check.
+0,0,0,1,Yes,Yes,Electronic check.
+ 0,0,0,4,Yes,No,Mailed check.
+0,0,0,2,Yes,No,Bank transfer (automatic). 
+0,0,0,2,Yes,No,Bank transfer (automatic). 
+0,0,1,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,Yes,Electronic check.
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,0,0,3,Yes,No,Mailed check. 
+0,1,1,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,Yes,Bank transfer (automatic). 
+0,0,0,1,Yes,No,Credit card (automatic). 
+0,0,0,1,Yes,No,Electronic check. 
+ 0,1,1,1,Yes,No,Bank transfer (automatic). 
+0,0,1,1,Yes,Yes,Electronic check. 
+0,0,0,1,Yes,No,Credit card (automatic). 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,Yes,Mailed check. 
+0,0,1,1,Yes,No,Credit card (automatic). 
+0,1,0,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Mailed check. 
+ 0,0,0,2,Yes,No,Bank transfer (automatic). 
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,0,0,2,Yes,No,Credit card (automatic). 
+0,1,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,Yes,Credit card (automatic). 
+0,0,1,1,No,No,Mailed check. 
+0,0,0,2,Yes,Yes,Electronic check. 
+ 0,0,0,1,Yes,Yes,Credit card (automatic). 
+0,0,0,2,Yes,Yes,Bank transfer (automatic). 
+0,0,0,1,Yes,No,Electronic check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Electronic check. 
+0,0,0,2,Yes,No,Electronic check. 
+0,0,0,1,Yes,No,Electronic check. 
+0,0,1,1,Yes,No,Credit card (automatic). 
+0,0,1,0,No,No,Mailed check. 
+0,0,0,2,Yes,No,Bank transfer (automatic). 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,0,0,1,Yes,Yes,Credit card (automatic). 
+0,0,0,1,Yes,Yes,Bank transfer (automatic). 
+0,0,0,1,Yes,Yes,Credit card (automatic). 
+0,0,0,1,Yes,Yes,Bank transfer (automatic). 
+0,0,0,1,Yes,Yes,Bank transfer (automatic). 
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,0,0,2,Yes,No,Bank transfer (automatic). 
+ 0,0,0,1,Yes,No,Bank transfer
+0,0,0,2,Yes,Yes,Mailed check. 
+0,1,0,2,Yes,No,Bank transfer (automatic). 
+ 0,0,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,0,0,2,Yes,No,Mailed check. 
+0,1,0,1,Yes,No,Bank transfer (automatic). 
+0,0,0,2,Yes,No,Credit card (automatic). 
+0,0,0,1,Yes,No,Mailed check. 
+ 0,0,0,1,Yes,No,Electronic check. 
+0,0,0,3,Yes,No,Bank transfer (automatic). 
+0,1,0,1,Yes,No,Credit card (automatic). 
+ 0,0,0,2,Yes,No,Electronic check. 
+0,0,1,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Electronic check. 
+0,0,1,2,Yes,No,Mailed check. 
+0,0,0,3,Yes,No,Electronic check. 
+0,0,1,1,Yes,No,Bank transfer (automatic). 
+0,0,0,2,Yes,No,Bank transfer (automatic). 
+ 0,0,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,Yes,Electronic check. 
+0,0,0,1,Yes,Yes,Electronic check. 
+0,0,0,1,Yes,No,Credit card (automatic). 
+ 0,0,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Electronic check. 
+0,0,1,1,Yes,Yes,Credit card (automatic). 
+0,1,0,1,Yes,No,Electronic check.  
+0,0,0,1,Yes,Yes,Mailed check. 
+0,0,0,1,Yes,No,Credit card (automatic). 
+ 0,0,0,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Mailed check. 
+0,1,1,1,Yes,Yes,Bank transfer (automatic). 
+0,0,0,2,Yes,Yes,Electronic check. 
+ 0,0,0,2,Yes,Yes,Bank transfer (automatic). 
+0,1,0,1,Yes,Yes,Mailed check. 
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,0,0,2,Yes,Yes,Electronic check. 
+0,0,1,1,Yes,No,Bank transfer (automatic). 
+0,0,0,1,Yes,No,Credit card (automatic). 
+ 0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,0,0,2,Yes,No,Mailed check. 
+0,1,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,0,0,2,Yes,Yes,Electronic check. 
+0,0,1,1,Yes,No,Bank transfer (automatic). 
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,0,0,1,Yes,Yes,Electronic check. 
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+ 0,1,0,1,Yes,No,Credit card (automatic). 
+0,0,1,0,Yes,No,Bank transfer (automatic). 
+0,0,1,1,Yes,No,Electronic check. 
+0,0,1,0,No,No,Mailed check. 
+0,1,1,1,Yes,No,Bank transfer (automatic). 
+ 0,0,0,2,Yes,No,Mailed check. 
+0,0,1,1,Yes,No,Electronic check. 
+0,0,0,2,Yes,No,Mailed check. 
+0,1,1,1,Yes,No,Mailed check. 
+ 0,0,0,1,Yes,No,Electronic check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Mailed check. 
+0,1,1,1,Yes,No,Mailed check. 
+ 0,0,0,1,Yes,No,Electronic check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,1,1,Yes,No,Electronic check. 
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,Yes,Credit card (automatic).  
+0,0,0,2,Yes,No,Mailed check. 
+0,0,1,1,Yes,Yes,Credit card (automatic). 
+0,0,0,2,Yes,No,Bank transfer (automatic). 
+ 0,0,0,2,Yes,No,Bank transfer (automatic). 
+0,0,0,1,Yes,No,Credit card (automatic). 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Electronic check. 
+0,0,0,1,Yes,No,Electronic check. 
+0,0,0,2,Yes,No,Electronic check. 
+0,0,0,1,Yes,No,Bank transfer (automatic).  
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,0,0,2,Yes,No,Bank transfer (automatic). 
+0,0,1,1,Yes,No,Mailed check. 
+ 0,0,0,1,Yes,No,Credit card (automatic). 
+0,0,0,2,Yes,No,Bank transfer (automatic). 
+0,0,0,2,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Electronic check. 
+0,0,0,2,Yes,No,Bank transfer (automatic). 
+ 0,0,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Credit card (automatic). 
+0,0,0,2,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,Yes,Credit card (automatic). 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,Yes,Electronic check.  
+0,0,0,2,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Electronic check. 
+ 1,1,0,2,Yes,No,Mailed check. 
+0,0,0,1,Yes,Yes,Mailed check. 
+1,1,0,1,Yes,Yes,Mailed check. 
+1,0,0,2,Yes,No,Credit card (automatic). 
+1,0,0,1,Yes,No,Electronic check. 
+1,0,0,1,Yes,No,Electronic check. 
+1,0,0,2,No,No,Electronic check. 
+1,0,0,2,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Bank transfer (automatic). 
+0,0,0,1,Yes,No,Mailed check. 
+ 0,0,0,1,Yes,No,Credit card (automatic). 
+0,1,0,1,Yes,No,Mailed check. 
+0,1,1,1,No,No,Credit card (automatic). 
+0,0,0,1,Yes,No,Mailed check. 
+ 0,0,1,1,Yes,Yes,Mailed check. 
+0,0,1,1,Yes,No,Credit card (automatic). 
+0,0,0,1,Yes,No,Mailed check. 
+0,1,0,1,No,No,Mailed check. 
+0,1,1,1,No,No,Mailed check. 
+0,0,1,1,Yes,No,Credit card (automatic). 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Electronic check. 
+0,0,0,2,Yes,Yes,Electronic check. 
+ 0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,1,0,1,Yes,No,Electronic check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Credit card (automatic). 
+0,0,0,2,Yes,No,Bank transfer (automatic). 
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+ 0,1,0,1,Yes,No,Electronic check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,1,1,Yes,No,Electronic check. 
+0,0,0,1,Yes,Yes,Bank transfer (automatic). 
+0,0,0,2,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Credit card (automatic). 
+ 0,0,1,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Electronic check. 
+0,1,0,1,Yes,No,Mailed check. 
+0,0,0,3,Yes,Yes,Mailed check. 
+0,0,0,1,Yes,Yes,Mailed check. 
+0,0,0,1,Yes,No,Electronic check. 
+0,0,0,1,Yes,No,Mailed check. 
+ 0,0,1,1,Yes,No,Mailed check. 
+0,1,1,1,Yes,Yes,Mailed check. 
+0,0,0,2,Yes,Yes,Mailed check.  
+ 0,0,0,2,Yes,Yes,Electronic check. 
+0,1,1,1,Yes,Yes,Mailed check. 
+0,1,1,1,Yes,No,Electronic check. 
+0,0,1,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,Yes,Mailed check.  
+0,0,0,2,Yes,No,Credit card (automatic). 
+1,1,0,1,Yes,No,Electronic check. 
+0,0,1,1,Yes,Yes,Credit card (automatic). 
+ 3,0,1,1,Yes,No,Bank transfer (automatic). 
+1,0,1,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Electronic check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,1,1,Yes,No,Bank transfer (automatic). 
+0,0,0,2,Yes,Yes,Mailed check. 
+0,0,0,1,Yes,No,Credit card (automatic). 
+0,0,0,2,Yes,Yes,Mailed check. 
+0,0,0,1,Yes,No,Electronic check. 
+ 0,0,0,1,Yes,No,Mailed check. 
+0,0,0,3,Yes,No,Bank transfer (automatic). 
+0,0,0,2,Yes,No,Credit card (automatic). 
+ 0,1,0,1,Yes,No,Electronic check. 
+0,1,0,1,Yes,No,Electronic check. 
+0,1,0,2,Yes,No,Mailed check. 
+0,0,1,1,Yes,Yes,Mailed check. 
+0,0,0,3,Yes,No,Electronic check. 
+0,0,1,1,Yes,No,Credit card (automatic). 
+0,0,0,2,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+ 0,0,0,1,Yes,Yes,Mailed check. 
+0,0,0,2,Yes,No,Mailed check. 
+0,0,0,6,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,Yes,Mailed check. 
+0,0,0,3,Yes,No,Mailed check. 
+0,0,0,4,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,3,Yes,No,Mailed check. 
+0,0,1,1,Yes,No,Mailed check. 
+0,1,1,1,Yes,No,Bank transfer (automatic). 
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,0,1,1,Yes,No,Mailed check. 
+ 0,0,0,4,Yes,No,Mailed check. 
+0,1,0,2,Yes,No,Bank transfer (automatic). 
+0,0,0,3,Yes,Yes,Mailed check. 
+0,1,1,1,Yes,Yes,Bank transfer (automatic). 
+0,0,0,3,Yes,No,Mailed check. 
+0,1,1,1,Yes,No,Electronic check. 
+0,0,1,1,Yes,No,Mailed check. 
+0,1,1,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+1,1,0,2,Yes,No,Electronic check. 
+1,1,1,1,Yes,No,Electronic check. 
+ 1,1,1,1,Yes,No,Mailed check. 
+1,0,0,2,Yes,No,Bank transfer (automatic). 
+1,1,0,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Bank transfer (automatic). 
+0,1,0,1,Yes,No,Mailed check. 
+1,1,0,1,Yes,No,Mailed check. 
+ 1,0,0,1,Yes,No,Mailed check. 
+1,0,1,1,Yes,Yes,Electronic check. 
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,0,0,1,Yes,No,Mailed check. 
+1,1,0,2,Yes,No,Mailed check. 
+1,0,0,1,Yes,No,Bank transfer (automatic). 
+0,0,1,2,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+ 0,0,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Mailed check. 
+1,0,0,2,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,2,No,No bank transfer (automatic),Mailed check. 
+1,0,0,3,Yes,Yes,Electronic check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,1,0,1,Yes,No,Mailed check. 
+0,1,0,3,Yes,Yes,Electronic check. 
+0,0,0,1,Yes,No,Electronic check. 
+0,0,1,2,Yes,No,Electronic check. 
+0,0,0,2,Yes,No,Mailed check. 
+0,0,1,1,Yes,No,Credit card (automatic). 
+ 0,0,1,1,Yes,No,Credit card (automatic). 
+0,0,0,1,Yes,No,Electronic check. 
+0,0,1,1,Yes,No,Electronic check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Electronic check. 
+0,0,0,1,Yes,No,Electronic check. 
+0,0,0,1,Yes,No,Electronic check. 
+ 0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,1,1,1,Yes,No,Electronic check. 
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,1,1,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Credit card (automatic). 
+0,0,0,1,Yes,Yes,Mailed check. 
+0,0,0,1,Yes,Yes,Electronic check.  
+0,0,0,1,Yes,Yes,Bank transfer (automatic). 
+0,0,0,1,Yes,No,Electronic check. 
+ 0,1,1,1,Yes,No,Electronic check. 
+0,0,1,1,Yes,Yes,Electronic check. 
+0,0,0,1,Yes,No,Electronic check. 
+0,0,1,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,Yes,Mailed check. 
+0,1,0,1,Yes,No,Credit card (automatic). 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Credit card (automatic). 
+ 0,0,0,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Credit card (automatic). 
+0,0,0,1,Yes,No,Electronic check. 
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,0,0,2,Yes,No,Mailed check. 
+0,0,1,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Bank transfer (automatic). 
+ 0,0,1,1,Yes,Yes,Credit card (automatic). 
+0,0,1,1,Yes,Yes,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Credit card (automatic). 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Credit card (automatic). 
+0,1,0,1,Yes,No,Mailed check.  
+0,0,0,2,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Credit card (automatic). 
+ 0,0,1,1,Yes,No,Credit card (automatic). 
+0,0,1,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,1,0,1,Yes,No,Electronic check. 
+0,1,0,1,Yes,No,Electronic check.
+ 0,0,0,2,Yes,No,Electronic check. 
+0,1,0,1,Yes,No,Electronic check. 
+0,0,0,2,Yes,No,Credit card (automatic). 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Credit card (automatic). 
+0,1,0,1,Yes,No,Electronic check. 
+0,0,0,2,Yes,No,Credit card (automatic).  
+1,1,0,4,Yes,Yes,Bank transfer (automatic). 
+1,1,0,1,Yes,No,Electronic check. 
+ 1,1,1,1,Yes,Yes,Bank transfer (automatic). 
+1,1,0,2,Yes,No,Electronic check. 
+1,1,0,2,Yes,No,Electronic check. 
+0,0,0,4,Yes,No,Electronic check. 
+1,1,1,1,Yes,No,Credit card (automatic). 
+1,1,0,1,Yes,No,Electronic check. 
+1,0,0,2,Yes,Yes,Credit card (automatic). 
+0,1,0,2,Yes,No,Credit card (automatic). 
+0,1,0,2,Yes,Yes,Electronic check. 
+ 1,1,1,1,Yes,Yes,Credit card (automatic). 
+0,0,0,2,Yes,No,Electronic check. 
+0,1,0,1,Yes,No,Bank transfer (automatic). 
+0,0,0,1,Yes,No,Mailed check. 
+0,1,1,1,Yes,No,Bank transfer (automatic). 
+0,0,0,1,Yes,No,Credit card (automatic). 
+0,0,1,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,Yes,Credit card (automatic). 
+ 0,0,1,1,Yes,No,Bank transfer (automatic). 
+0,0,1,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Electronic check. 
+0,0,0,2,Yes,No,Bank transfer (automatic). 
+0,0,0,2,Yes,No,Mailed check. 
+0,1,0,1,Yes,No,Credit card (automatic). 
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,0,0,2,No,No,Mailed check. 
+0,1,1,1,Yes,No,Mailed check. 
+ 0,0,0,2,Yes,Yes,Bank transfer (automatic). 
+0,1,1,1,No,No,Bank transfer (automatic). 
+0,1,0,1,Yes,No,Bank transfer (automatic). 
+0,1,1,2,Yes,Yes,Electronic check. 
+0,0,0,2,Yes,No,Bank transfer (automatic). 
+0,1,0,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Electronic check. 
+0,0,1,1,Yes,Yes,Electronic check. 
+0,1,1,1,Yes,Yes,Electronic check.
+ 0,0,1,1,Yes,No,Electronic check. 
+0,0,0,1,Yes,No,Electronic check. 
+0,0,0,2,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Electronic check. 
+ 0,1,0,1,Yes,No,Mailed check. 
+0,1,1,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,1,1,1,Yes,No,Bank transfer (automatic). 
+1,1,1,1,Yes,Yes,Electronic check. 
+1,1,0,1,Yes,Yes,Electronic check. 
+0,0,1,1,Yes,Yes,Mailed check. 
+ 1,1,1,1,Yes,Yes,Mailed check. 
+0,0,1,1,Yes,Yes,Credit card (automatic). 
+0,0,0,1,Yes,Yes,Electronic check. 
+0,0,0,1,Yes,Yes,Electronic check. 
+ 0,1,1,1,Yes,Yes,Bank transfer (automatic). 
+0,0,0,1,Yes,Yes,Electronic check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Mailed check. 
+0,1,1,1,Yes,Yes,Electronic check. 
+0,0,0,2,Yes,No,Mailed check. 
+1,1,0,2,Yes,No,Mailed check. 
+1,0,1,1,Yes,No,Credit card (automatic). 
+1,0,0,1,Yes,Yes,Electronic check. 
+ 2,0,0,2,Yes,No,Mailed check. 
+1,0,0,2,Yes,No,Credit card (automatic). 
+0,0,0,1,Yes,No,Electronic check. 
+0,1,0,1,Yes,No,Electronic check. 
+1,0,0,1,Yes,No,Credit card (automatic). 
+0,0,0,1,Yes,No,Mailed check. 
+ 1,0,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+1,0,0,2,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Bank transfer (automatic). 
+0,1,1,1,Yes,No,Electronic check. 
+0,0,0,2,Yes,No,Credit card (automatic). 
+ 0,0,0,2,Yes,Yes,Electronic check. 
+1,0,0,1,Yes,No,Electronic check. 
+1,0,1,1,Yes,No,Bank transfer (automatic). 
+0,0,0,2,Yes,Yes,Mailed check.  
+0,0,0,2,Yes,No,Credit card (automatic). 
+0,0,0,2,Yes,No,Mailed check. 
+0,0,0,2,Yes,Yes,Electronic check. 
+ 1,1,1,1,Yes,No,Mailed check. 
+1,0,0,2,Yes,No,Bank transfer (automatic). 
+0,0,0,1,Yes,Yes,Electronic check. 
+0,0,0,2,Yes,Yes,Electronic check. 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,1,1,No,No,Electronic check. 
+0,0,0,1,Yes,Yes,Electronic check. 
+ 0,0,1,1,Yes,Yes,Mailed check. 
+0,0,0,2,Yes,Yes,Electronic check. 
+0,0,0,1,No,No,Bank transfer (automatic). 
+0,0,0,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,0,0,2,Yes,No,Bank transfer (automatic). 
+0,0,1,1,No,Yes,Mailed check. 
+0,0,0,2,Yes,No,Mailed check.  
+0,1,1,1,No,No,Credit card (automatic). 
+0,1,1,1,No,No,Bank transfer (automatic). 
+ 0,0,0,2,Yes,No,Electronic check. 
+0,0,0,2,Yes,No,Electronic check. 
+0,1,0,1,Yes,No,Electronic check. 
+0,0,1,1,Yes,No,Credit card (automatic). 
+0,0,0,2,Yes,No,Mailed check. 
+1,1,0,1,Yes,No,Electronic check. 
+0,0,0,2,Yes,No,Mailed check. 
+ 0,0,0,1,Yes,No,Bank transfer (automatic). 
+0,0,1,1,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+1,1,0,0,Yes,No,Credit card (automatic). 
+0,1,1,1,Yes,No,Electronic check. 
+0,0,0,1,Yes,No,Electronic check. 
+0,1,0,1,Yes,No,Electronic check. 
+0,0,0,2,Yes,No,Credit card (automatic). 
+0,0,0,2,Yes,No,Bank transfer (automatic). 
+0,0,1,1,Yes,No,Credit card (automatic). 
+0,1,0,1,Yes,No,Electronic check. 
+0,0,0,2,Yes,No,Electronic check. 
+0,1,0,1,Yes,No,Electronic check. 
+0,1,1,1,Yes,No,Credit card (automatic). 
+0,0,0,1,Yes,No,Electronic check. 
+0,0,1,1,Yes,No,Bank transfer (automatic). 
+0,0,0,3,Yes,No,Electronic check. 
+0,0,0,1,Yes,No,Credit card (automatic). 
+0,0,0,3,Yes,Yes,Credit card (automatic).  
+1,0,0,2,Yes,No,Credit card (automatic). 
+0,0,0,2,Yes,No,Electronic check. 
+0,0,0,2,Yes,Yes,Credit card (automatic). 
+0,1,1,1,Yes,Yes,Electronic check. 
+ 0,1,0,1,Yes,No,Bank transfer (automatic). 
+1,0,0,1,Yes,No,Bank transfer (automatic). 
+1,1,0,1,Yes,Yes,Mailed check. 
+1,1,1,1,Yes,No,Mailed check. 
+0,0,0,2,Yes,No,Bank transfer (automatic). 
+ 2,1,0,0,Yes,Yes,Mailed check. 
+1,1,1,0,Yes,Yes,Credit card (automatic). 
+0,0,0,1,Yes,No,Mailed check. 
+1,1,1,1,Yes,No,Bank transfer (automatic). 
+1,1,1,2,Yes,No,Mailed check. 
+0,0,0,1,Yes,No,Mailed check. 
+ 1,1,0,2,Yes,No,Bank transfer (automatic). 
+0,0,0,1,Yes,No,Mailed check. 
+1,1,1,0,Yes,Yes,Bank transfer (automatic). 
+0,0,0,1,Yes,No,Mailed check. 
+1,1,0,1,Yes,No,Mailed check. 
